@@ -2,3 +2,5 @@ android application that counts your steps as you walk or run using your smartph
            -register
             -login
              -see the steps 
+
+merge it with bmi
